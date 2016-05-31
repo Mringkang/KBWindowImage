@@ -28,6 +28,7 @@
     
 }
 
+
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
 
     // 给图片一个磨砂的效果
